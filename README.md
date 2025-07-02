@@ -21,13 +21,15 @@ Estrutura de dados: LinkedList
 
 Entrada de dados: Scanner
 
-Estrutura do Projeto
+🧱 Estrutura do Projeto
+
 Main.java → Classe principal que contém o menu e controle do fluxo
 
 Ninja.java → Classe que representa o objeto Ninja com nome, idade e aldeia
 
 Métodos.java → Classe utilitária com os métodos de manipulação da lista
 
+📌 Exemplo de Objetos Padrão
 
 A lista inicial já vem com alguns ninjas conhecidos:
 
