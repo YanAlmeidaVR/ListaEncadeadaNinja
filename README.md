@@ -47,20 +47,5 @@ Shikamaru Nara
 
 Temari
 
-▶️ Como Executar
-Compile os arquivos:
-
-bash
-Copiar
-Editar
-javac Main.java Ninja.java Métodos.java
-Execute o programa:
-
-bash
-Copiar
-Editar
-java Main
-Utilize o menu exibido para interagir com os dados.
-
 📚 Objetivo Educacional
 Esse projeto foi criado com fins educativos, focando no uso de LinkedList, manipulação de objetos, métodos reutilizáveis e interação via console. Ideal para quem está aprendendo programação orientada a objetos e estruturas de dados em Java.
